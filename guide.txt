@@ -1,0 +1,10 @@
+1. npm init -y
+2. npm start
+3. npm install --save-dev nodemon
+ "scripts": {
+    "startDev": "nodemon server"
+  },
+4. npm run startDev = node server
+
+UPLOAD GIT
+
